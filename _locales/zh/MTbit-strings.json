@@ -1,0 +1,16 @@
+
+{
+	"MTbit.Servo|block": "舵机|%index|角度 %degree",
+	"MTbit.MotorRun|block": "电机|%index|速度 %speed",
+	"MTbit.MotorRunDual|block": "电机|%motor1|速度 %speed1|%motor2|速度 %speed2",
+	"MTbit.MotorRunDelay|block": "电机|%index|速度 %speed|延时 %delay|s",
+	"MTbit.MotorStop|block": "电机 停止|%index|",
+	"MTbit.MotorStopAll|block": "停止所有电机",
+	"MTbit.Ultrasonic|block": "超声波",
+	"MTbit.AD_sensor_Read|block": "模拟传感器值读取|%index|",
+	"MTbit.AD_PWM_Write|block": "模拟PWM输出|%index|，值 %pwm_val",
+	"MTbit.Digtal_Write|block": "数字信号输出|%index|，值 %do_val",
+	"MTbit.TrackerIn_Read|block": "寻迹|%index|,|%index1|通道",
+	"MTbit.Digtal_Read|block": "数字信号读取|%index|",
+	"MTbit.RGB|block":"RGB|%index|,红色 %R_val,绿色 %G_val,蓝色 %B_val"
+}
