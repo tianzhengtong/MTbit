@@ -1,0 +1,15 @@
+{
+    "name": "MTbit",
+    "version": "0.0.1",
+    "description": "makecode package for MTbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "MTbit.ts",
+        "_locales/zh/MTbit-strings.json"
+    ],
+    "public": true
+}
